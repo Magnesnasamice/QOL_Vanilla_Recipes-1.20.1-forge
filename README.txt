@@ -1,7 +1,7 @@
-# Quality-Of-Life Vanilla Recipes
+Quality-Of-Life Vanilla Recipes
 This is a server-side mod with QOL Recipes that can be enabled and disabled in the mod's config.
 
-##this mod adds:
+this mod adds:
 - rotten flesh to leather
 - bed recoloring
 - any wool to string
