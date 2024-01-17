@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "rabbit_new",
+  "ingredient": {
+    "item": "minecraft:rabbit_foot"
+  },
+  "result": "minecraft:rabbit_hide"
+}
